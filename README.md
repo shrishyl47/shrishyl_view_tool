@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+ShrishylViewTool::Renderer.copyright 'Shrishyl V', 'All rights reserved'
+```
 
 ## Development
 
